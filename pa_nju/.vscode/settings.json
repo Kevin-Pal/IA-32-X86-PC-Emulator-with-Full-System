@@ -1,0 +1,15 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Program Files (x86)\\mingw64\\bin\\gcc.exe",
+    "files.associations": {
+        "nemu.h": "c",
+        "mov.h": "c",
+        "cache.h": "c",
+        "memory.h": "c",
+        "corecrt_memory.h": "c",
+        "x86.h": "c",
+        "cpu.h": "c",
+        "port_io.h": "c",
+        "mm_io.h": "c",
+        "common.h": "c"
+    }
+}
